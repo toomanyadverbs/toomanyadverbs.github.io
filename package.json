@@ -1,0 +1,24 @@
+{
+  "name": "toomanyadverbs.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toomanyadverbs/toomanyadverbs.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toomanyadverbs/toomanyadverbs.github.io/issues"
+  },
+  "homepage": "https://github.com/toomanyadverbs/toomanyadverbs.github.io#readme"
+}
